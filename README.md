@@ -8,7 +8,7 @@ The purpose of this project was to build a macro in VBA we can use to analyze th
 
 ### Run time using original code
 <img src="Resources/origianl%202017.png">
-<img src="Resources/origianl%202017.png">
+<img src="Resources/original%202018.png">
 
 
 ### Run time using refactored code
