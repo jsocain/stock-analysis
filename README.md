@@ -6,6 +6,11 @@ The purpose of this project was to build a macro in VBA we can use to analyze th
 
 ## Results:
 
+### Run time using original code
+
+
+### Run time using refactored code
+
 ## Summary:
 
 The advantage of refactoring code is making the code more efficient so it runs faster. The disadvantage it takes more time and coding knowledge. If you don't know what you ar doing it can take considerable time to work out the refactored code and things might not work properly. 
