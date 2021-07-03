@@ -21,4 +21,4 @@ The code ran .7 seconds faster after refactoring
 
 The advantage of refactoring code is making the code more efficient so it runs faster. The disadvantage it takes more time and coding knowledge. If you don't know what you ar doing it can take considerable time to work out the refactored code and things might not work properly. 
 
-The origianl code worked well for a dozen stocks, but for thousands of stocks, the new code will take less time to execute.
+The original code worked well for a dozen stocks, but for thousands of stocks, the new code will take less time to execute.
